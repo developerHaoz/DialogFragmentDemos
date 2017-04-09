@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/showProgress"
+        android:title="加载中的弹出窗"
+        />
+
+    <item
+        android:id="@+id/showTips"
+        android:title="简单提示弹出窗"
+        />
+
+    <item
+        android:id="@+id/showConfirmDialog"
+        android:title="确定取消弹出窗"
+        />
+
+    <item
+        android:id="@+id/showListDialog"
+        android:title="带列表的弹出窗"
+        />
+
+    <item
+        android:id="@+id/showDateDialog"
+        android:title="选择日期的弹出窗"
+        />
+
+    <item
+        android:id="@+id/showTimeDialog"
+        android:title="选择时间的弹出窗"
+        />
+
+    <item
+        android:id="@+id/showInsertDialog"
+        android:title="带输入框的弹出窗"
+        />
+
+    <item
+        android:id="@+id/showPasswordInsertDialog"
+        android:title="带输入密码框的弹出窗"
+        />
+
+    <item
+        android:id="@+id/showIntervalInsertDialog"
+        android:title="两个输入框的弹出窗"
+        />
+</menu>

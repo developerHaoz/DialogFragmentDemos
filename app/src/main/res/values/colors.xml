@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFB74D</color>
+    <color name="colorPrimaryDark">#FF9800</color>
+    <color name="colorAccent">#03A9F4</color>
+
+    <color name="tab_text_unselected">#828990</color>
+
+    <color name="app_main_color">#3F51B5</color>
+    <color name="app_main_color_deep">#303F9F</color>
+
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="gray_light">#f4f4f4</color>
+
+    <color name="progress_end">#87CEEB</color>
+    <color name="progress_start">#87CEEB</color>
+
+    <color name="green">#15de33</color>
+    <color name="orange">#f4c600</color>
+    <color name="yellow_light">#f2eec2</color>
+    <color name="red">#f45a5a</color>
+    <color name="gray_black">#777575</color>
+
+    <color name="pink">#e65050</color>
+    <color name="transparent">#00ffffff</color>
+    <!--聊天文字的颜色-->
+    <color name="font_black_gray">#000</color>
+
+    <color name="deep_orange">#FF6600</color>
+    <color name="deep_gray">#bfbfbf</color>
+    <color name="purple">#e16bc7</color>
+
+
+    <color name="half_transparent_black">#7a000000</color>
+</resources>
