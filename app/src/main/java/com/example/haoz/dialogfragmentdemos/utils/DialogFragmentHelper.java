@@ -11,7 +11,6 @@ import android.os.Build;
 import android.support.annotation.RequiresApi;
 import android.support.v4.app.DialogFragment;
 import android.support.v4.app.FragmentManager;
-import android.support.v4.view.LayoutInflaterCompat;
 import android.text.InputType;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -62,7 +61,6 @@ public class DialogFragmentHelper {
         dialogFragment.show(fragmentManager, PROGRESS_TAG);
         return dialogFragment;
     }
-
 
     /**
      * 简单提示弹出窗
