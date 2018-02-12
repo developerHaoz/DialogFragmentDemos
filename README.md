@@ -1,5 +1,3 @@
-**本篇文章已授权为微信公众号 **code小生** 发布**
-
 ### 前言
 > 具体的代码以及示例我都放上 Github 了，有需要的朋友可以去看一下 **[DialogFragmentDemos](https://github.com/developerHaoz/DialogFragmentDemos)**，欢迎 star 和 fork.
 #### 本文的主要内容
